@@ -1,5 +1,5 @@
 # Assignment1_ADBMS
-Complete all the questions and make sure to upload the screenshots of the output/result set.
+Complete any five questions from all the topics and make sure to upload the screenshots of the output/result set.
 In case of any doubt feel free to contact.
 
 Student Table:
@@ -56,6 +56,8 @@ Marks Table:
 --Delete all students from Delhi.
 --Write a query to remove the Marks table from the database.
 
+
+
 ## SQL Joins
 
 
@@ -69,6 +71,8 @@ Marks Table:
 --Find the highest marks obtained in each subject.
 --List all subjects and their respective students who scored more than 80.
 --Get the student name, course, and marks in descending order of marks.
+
+
 
 ## SQL Subqueries
 
