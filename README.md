@@ -33,27 +33,33 @@ Marks Table:
 
 
 
-1. Basic SQL Queries
-                     1.Retrieve all records from the Student table.
-                     2.Get names and cities of all students.
-                      3.Find students who are from Mumbai.
-                      4.List students who are older than 21.
-                      5.Find students enrolled in the B.Tech course.
-                      6.Retrieve student details where the name starts with "A".
-                      7.Display the total number of students.
-                      8.Show all unique cities in the Student table.
-                      9.Find students whose names end with "a".
-                      10.Retrieve student details where the course is either BBA or BCA.
-   
-3. SQL Commands 
-                     1. Write a query to create a Student table.
-                      2.Add a new column phone_number to the Student table.
-                      3.Insert a new student with details of your choice.
-                      4.Update the course of Riya Sharma to "MCA".
-                      5.Delete all students from Delhi.
-                      6.Write a query to remove the Marks table from the database.
+## 1. Basic SQL Queries
 
-4. SQL Joins
+- Retrieve all records from the Student table.  
+- Get names and cities of all students.  
+- Find students who are from Mumbai.  
+- List students who are older than 21.  
+- Find students enrolled in the B.Tech course.  
+- Retrieve student details where the name starts with "A".  
+- Display the total number of students.  
+- Show all unique cities in the Student table.  
+- Find students whose names end with "a".  
+- Retrieve student details where the course is either BBA or BCA.  
+
+   
+## SQL Commands 
+
+
+                     -- Write a query to create a Student table.
+                      --Add a new column phone_number to the Student table.
+                      --Insert a new student with details of your choice.
+                      --Update the course of Riya Sharma to "MCA".
+                      --Delete all students from Delhi.
+                      --Write a query to remove the Marks table from the database.
+
+## SQL Joins
+
+
                       1.Retrieve student names and their marks using an INNER JOIN.
                       2.List all students along with their marks (even if some students don't have marks).
                       3.Get all students who haven't scored any marks.
@@ -64,7 +70,9 @@ Marks Table:
                       8.Find the highest marks obtained in each subject.
                       9.List all subjects and their respective students who scored more than 80.
                       10.Get the student name, course, and marks in descending order of marks.
-5. SQL Subqueries
+## SQL Subqueries
+
+
                       1.Retrieve students who have scored more than the average marks.
                       2.Find the name of the student who scored the highest in Math.
                       3.Get students who are enrolled in the same course as "Aarav Gupta".
